@@ -1,4 +1,4 @@
-package com.DataFlair.mycalculator;
+package adarshanand.mycalculator;
 
 import org.junit.Test;
 
